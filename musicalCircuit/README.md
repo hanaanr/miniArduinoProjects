@@ -13,7 +13,7 @@ The circuit used for this is shown below, and here is the video: https://youtu.b
 </p>
 
 <p align="center">
-  <img src="schematicMusic.png" width="400" />
+  <img src="schematicMusic.png" width="500" />
 </p>
 
 
