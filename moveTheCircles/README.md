@@ -1,7 +1,5 @@
 ### Move the Circles
 
-#### Prompt: Make a simple game that involves some kind of communication between Arduino and Processing. Always use handshaking.
-
 In this project, the goal was to create something that involved some kind of communication between Arduino and Processing.
 
 I utilized a class I had coded for a previous project. This class creates concentric circles of varying colors at a specified location. Now here, I used incoming data from a potentiometer to specify the x-coordinate of this concentric circle set, while keeping its y-coordinate constant. In order to conduct handshaking, I created a variable called `receivingIndicator` in Arduino and a boolean called `arduinoReceives` in Processing -- as long as the latter was `true`, data would be sent to Arduino -- and as long as the Arduino program received data, it would Serial print the potentiometer data.
