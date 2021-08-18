@@ -2,9 +2,7 @@
 
 Below is a photograph of the final circuit, and here is the link to the video: https://youtu.be/0u97dRXpkq4
 
-<center>
-<img src="lightUpWithLDR.jpg" alt="circuit" width="200"/>
-</center>
+<div style="text-align:center"><img src="lightUpWithLDR" /></div>
   
 The goal of this project was to read input from a light-dependent resister and a switch and use that information to control one LED each. I used the LDR input such that when the light hitting it is above a certain threshold, it would blink fast -- and when the amount of light falls within a certain range, it would blink slower. In the case of the switch, I simply set it such that when the switch was pushed, it would result in the other LED blinking. This was supposed to be a simple implementation. 
 
