@@ -9,7 +9,7 @@ In this project, the goal was to create a musical insturment using a push button
 The circuit used for this is shown below, and here is the video: https://youtu.be/JuTdTbAq_B0
 
 <p align="center">
-  <img src="musicalCircuit.png" width="400" />
+  <img src="musicalCircuit.jpg" width="400" />
 </p>
 
 <p align="center">
