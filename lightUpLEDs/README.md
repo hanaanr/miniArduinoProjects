@@ -8,5 +8,7 @@ Here is the youtube link for a video: https://youtu.be/fcAhzDUEdo8
 
 The main problem I ran into was knowing what to connect to what in order to obtain my desired result. This was solved by rewatching all the lectures and watching youtube videos to get  comfortable with pinning things down to the breadboard and uploading code. The other main problem I faced was actually translating the circuit on the breadboard to a clean schematic, which was also eventually achieved, as shown below. This process also made me realize that my circuit was unnecessarily complicated, so I simplified it, making translating it to its schematic much easier. 
 
-![](lightUpLEDs.png)
+<p align="center">
+  <img src="lightUpLEDs.png" width="400" />
+</p>
 
