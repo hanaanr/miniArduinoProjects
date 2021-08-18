@@ -16,17 +16,16 @@ Here is a link to see how it works: https://youtu.be/AHa17KsNS3g
 
 A screenshot of the final result is shown below.
 <p align="center">
-  <img src="moveTheCircles.jpg" width="700" />
+  <img src="Result.png" width="700" />
 </p>
 
 Here is an image of the circuit, and below it is the schematic.
-
 <p align="center">
-  <img src="moveTheCirclesCircuit.jpg" width="700" />
+  <img src="moveTheCirclesCircuit.jpg" width="400" />
 </p>
 
 <p align="center">
-  <img src="moveTheCirclesSchematic.jpg" width="700" />
+  <img src="moveTheCirclesSchematic.jpg" width="400" />
 </p>
 
 
