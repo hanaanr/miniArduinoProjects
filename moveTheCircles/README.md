@@ -23,7 +23,7 @@ Here is an image of the circuit, and below it is the schematic.
 </p>
 
 <p align="center">
-  <img src="moveTheCirclesSchematic.jpg" width="400" />
+  <img src="moveTheCirclesSchematic.jpg" width="500" />
 </p>
 
 
